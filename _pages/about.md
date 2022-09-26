@@ -1,6 +1,6 @@
 ---
-layout: about
 title: About Me
+layout: about
 author: Johnathan Smith
 image: assets/images/about/author.jpg
 signature: assets/images/about/signature.png
